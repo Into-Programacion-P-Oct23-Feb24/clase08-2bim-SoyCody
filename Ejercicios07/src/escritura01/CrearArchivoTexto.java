@@ -1,4 +1,4 @@
-package escritura01;
+    package escritura01;
 
 // Uso de la clase Formatter para escribir datos en un archivo de texto.
 import java.util.Formatter;
